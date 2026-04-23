@@ -1,0 +1,11 @@
+[project]
+name = "prefiling-check-poc"
+version = "0.1.0"
+description = "Proof of concept for a pre-filing brief checker."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "courtlistener-api-client>=0.0.6",
+    "liteparse>=1.2.1",
+    "python-docx>=1.2.0",
+]
