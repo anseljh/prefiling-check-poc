@@ -1,0 +1,4 @@
+[courtlistener]
+# Your CourtListener API Token
+# Get one at https://www.courtlistener.com/help/api/rest/
+api_token = "YOUR_API_TOKEN_HERE"

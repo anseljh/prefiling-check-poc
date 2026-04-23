@@ -1,0 +1,1477 @@
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 1 of 30
+
+
+    Andrew G. Dietderich
+    Sharon Cohen Levin
+    Christopher J. Dunne
+    Jacob M. Croke
+    Alexa J. Kranzley
+    SULLIVAN & CROMWELL LLP
+    125 Broad Street
+    New York, NY 10004
+    Telephone: (212) 558-4000
+    Facsimile: (212) 558-3588
+
+    Counsel to the Authorized Foreign Representatives
+
+    UNITED STATES BANKRUPTCY COURT
+    SOUTHERN DISTRICT OF NEW YORK
+
+
+In re: Chapter 15
+PRINCE GLOBAL HOLDINGS LIMITED et al,.1 Case No. 26-10769 (MG)
+       Debtors in Foreign Proceedings. (Joint Administration Requested)
+
+
+        EMERGENCY MOTION FOR ENTRY OF ORDERS GRANTING
+        (I) EX PARTE RELIEF AND (II) PROVISIONAL RELIEF, PURSUANT
+        TO SECTION 1519 OF THE BANKRUPTCY CODE
+
+        Paul Pretlove, David Standish and James Drury, in their capacities as the authorized
+
+foreign representatives (collectively, the “Authorized Foreign Representatives”) for Prince Global
+
+Holdings Limited and its affiliated debtors (collectively, the “Debtors”), regarding the Debtors’
+
+provisional liquidation proceedings (the “BVI Proceedings”) in the Eastern Caribbean Supreme
+
+Court in the BVI High Court of Justice (Commercial Division) (the “BVI Court”) pursuant to
+
+section 170 of the BVI Insolvency Act, 2003 (the “BVI Insolvency Act”), hereby submit this
+
+motion (the “Motion”) for entry of a temporary restraining order, substantially in the form attached
+
+
+1 The Debtors in these Chapter 15 Cases are incorporated in the British Virgin Islands (the “BVI”) and maintain
+    their registered address at Vistra Corporate Services Centre, Wickhams Cay II, Road Town, Tortola, British
+    Virgin Islands, VG1110. A complete list of the Debtors and their company numbers is attached as Exhibit A.
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 2 of 30
+
+
+hereto as Exhibit B, and an order granting provisional relief, substantially in the form attached
+
+hereto as Exhibit C, pursuant to section 1519 of title 11 of the United States Code, 11 U.S.C. §§
+
+101 et seq. (the “Bankruptcy Code”). In support of the Motion, the Authorized Foreign
+
+Representatives rely upon (a) the Declaration of Paul Pretlove in Support of (A) the Emergency
+
+Motion for Entry of Orders Granting (I) Ex Parte Relief and (II) Provisional Relief, Pursuant to
+
+Section 1519 of the Bankruptcy Code and (B) the Verified Petition Under Chapter 15 for
+
+Recognition of Foreign Main Proceedings and Related Relief (the “Pretlove Declaration”) and
+
+(b) the Declaration of Andrew Chissick in Support of (A) the Emergency Motion for Entry of
+
+Orders Granting (I) Ex Parte Relief and (II) Provisional Relief, Pursuant to Section 1519 of the
+
+Bankruptcy Code and (B) the Verified Petition Under Chapter 15 for Recognition of Foreign Main
+
+Proceedings and Related Relief (the “Chissick Declaration”). In further support of the relief
+
+requested herein, the Authorized Foreign Representatives represent as follows:
+
+        Preliminary Statement
+
+      1. The Debtors are entities incorporated in the British Virgin Islands (“BVI”) that are
+
+alleged to be part of, affiliated with, or associated with the “Prince Group,” which has been
+
+identified by the U.S. Department of Justice (the “DOJ”), the U.S. Department of the Treasury,
+
+and international law enforcement and regulatory authorities as a large-scale transnational criminal
+
+enterprise alleged to have engaged in, among other things, cryptocurrency investment fraud, wire
+
+fraud, money laundering, human trafficking, and forced labor. See Pretlove Declaration ¶¶ 11–18.
+
+      2. On October 14, 2025, the DOJ unsealed a criminal indictment (the “Indictment”)
+
+against Chen Zhi—the alleged chairman and controlling figure of the Prince Group—charging him
+
+with wire fraud conspiracy and money laundering conspiracy. On the same date, the United States
+
+filed a verified civil forfeiture complaint (the “Forfeiture Complaint”) in the U.S. District Court
+
+for the Eastern District of New York seeking forfeiture of approximately 127,271 Bitcoin
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 3 of 30
+
+
+(equivalent to approximately $8.7 billion) alleged to represent proceeds and instrumentalities of
+
+the Prince Group’s fraud and money laundering schemes (the “EDNY Forfeiture Action”).
+
+Concurrently, the Office of Foreign Assets Control (“OFAC”) and the Office of Financial
+
+Sanctions Implementation of HM Treasury (“OFSI”) imposed sweeping sanctions targeting Chen
+
+Zhi, the Prince Group, and 146 individuals and entities within and connected to it. Twenty-eight
+
+of the Debtors are among the sanctioned entities and the remaining two—Amber Hill Ventures
+
+Limited (“Amber Hill”) and Lateral Bridge Global Limited (“Lateral Bridge”)—are not designated
+
+but are identified in the Forfeiture Complaint as entities used to launder illicit proceeds. See
+
+Pretlove Declaration ¶¶ 20–30.
+
+      3. In response to these enforcement actions, the Attorney General of the BVI applied
+
+to the BVI Court for the appointment of the Authorized Foreign Representatives as joint
+
+provisional liquidators to assume control of the Debtors, investigate their affairs, and identify,
+
+secure, and preserve their assets. Following an ex parte hearing on January 9, 2026, the BVI Court
+
+granted orders (collectively, the “BVI Orders”) appointing the Authorized Foreign Representatives
+
+as provisional liquidators of the Debtors. See Pretlove Declaration ¶¶ 40–41; Chissick Declaration
+
+¶¶ 17, 22–23.
+
+      4. The need for the provisional relief requested herein is compelling. The Authorized
+
+Foreign Representatives mandate requires them to be in contact with U.S. governmental
+
+authorities, including the United States Attorney for the Eastern District of New York with respect
+
+to the EDNY Forfeiture Action, and OFAC with respect to the sanctions that currently restrict the
+
+activities of the Debtors and their subsidiaries. The question of sanctions relief is especially
+
+urgent, with applications currently pending as described in more detail below. The provisional
+
+relief will assist the Authorized Foreign Representatives in confirming their authority under BVI
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 4 of 30
+
+
+law to represent the Debtors interests in the United States with these governmental authorities, and
+
+to seek supporting information from third-party U.S. persons.
+
+      5. In addition, proxies and persons associated with Chen Zhi have taken concrete steps
+
+to interfere with the Authorized Foreign Representatives’ authority across multiple jurisdictions,
+
+including through U.S. litigation threats, applications in the BVI Court seeking discharge of the
+
+BVI Orders, purported director appointments, and engagement with counterparties without the
+
+Authorized Foreign Representatives’ authorization. See Pretlove Declaration ¶¶ 54–59. Absent
+
+the relief requested herein, there is nothing to prevent these competing actors from commencing
+
+proceedings in U.S. courts, engaging with U.S. counterparties while disputing the Authorized
+
+Foreign Representatives’ standing, or taking other actions in the United States inconsistent with
+
+the BVI Orders.
+
+      6. The Authorized Foreign Representatives therefore seek provisional relief under
+
+section 1519 of the Bankruptcy Code to preserve the status quo, protect the Debtors’ U.S. assets,
+
+and enable targeted discovery to identify, secure, and preserve estate property during the gap
+
+period before recognition is decided. As set forth below, the requested relief satisfies all applicable
+
+standards, is routinely granted by this Court, and is designed to complement—not conflict with—
+
+the OFAC sanctions regime.
+
+        Jurisdiction and Venue
+
+      7. The Court has jurisdiction to consider this Motion pursuant to 28 U.S.C. §§ 157
+
+and 1334 and the Amended Standing Order of Reference M-431 from the U.S. District Court for
+
+the Southern District of New York, dated January 31, 2012 (Preska, C.J.). This case is a core
+
+proceeding pursuant to 28 U.S.C. § 157(b)(2)(P). Venue is proper in this District pursuant to 28
+
+U.S.C. § 1410. The statutory predicates for the relief requested herein are sections 105(a), 362,
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 5 of 30
+
+
+1519 and 1521(a) of the Bankruptcy Code and rule 7065 of the Federal Rules of Bankruptcy
+
+Procedure (the “Bankruptcy Rules”).
+
+        Background
+
+      8. On the date hereof (the “Petition Date”), the Authorized Foreign Representatives
+
+commenced these chapter 15 cases (“Chapter 15 Cases”) by filing for each debtor entity the
+
+Chapter 15 Petition for Recognition of a Foreign Proceeding (collectively, the “Forms 401”) and
+
+the Verified Petition Under Chapter 15 for Recognition of a Foreign Main Proceeding and Related
+
+Relief (the “Verified Petition” and, together with the Forms 401, the “Petitions”), seeking
+
+recognition of the BVI Proceedings as foreign main proceedings pursuant to section 1517 of the
+
+Bankruptcy Code and related relief. Each of the Debtors was incorporated under the laws of the
+
+BVI as a business company pursuant to the BVI Business Companies Act, 2004, a form of limited
+
+liability company that is broadly comparable to a corporation under United States law. See
+
+Pretlove Declaration ¶ 11.
+
+      9. As alleged in the Indictment and the Forfeiture Complaint, the Debtors were not
+
+independent operating businesses. They served as components of a layered corporate architecture
+
+through which the Prince Group held real property, investment interests, financial accounts, and
+
+other assets across multiple jurisdictions, including the United States, the United Kingdom, Hong
+
+Kong, Singapore, the Cayman Islands, Cambodia, and Spain. It is alleged that the corporate
+
+structure was deliberately designed to obscure the ultimate beneficial ownership and control of
+
+assets, and to facilitate the movement and laundering of proceeds derived from criminal activity.
+
+Pretlove Declaration ¶¶ 16–18.
+
+      10. Pursuant to the BVI Orders, the Authorized Foreign Representatives have acquired
+
+control of the Debtors under BVI Law. The BVI Orders, which were continued on an inter partes
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 6 of 30
+
+
+basis on January 29, 2026, confer broad authority on the Authorized Foreign Representatives to,
+
+among other things, (i) investigate the Debtors’ affairs; (ii) preserve assets; (iii) take control of the
+
+Debtors’ corporate governance and bank accounts; and (iv) seek recognition of the Authorized
+
+Foreign Representatives’ appointment in foreign jurisdictions, including the United States. See
+
+Pretlove Declaration ¶¶ 42–45; see also Chissick Declaration ¶¶ 22–24.
+
+      11. The OFAC sanctions have had immediate and severe operational consequences for
+
+the Debtors, including the freezing of bank accounts and the cessation of engagement by financial
+
+institutions and service providers across multiple jurisdictions. The Authorized Foreign
+
+Representatives have been actively seeking licenses in relevant jurisdictions to provide
+
+authorization for transactions or dealings with blocked or frozen assets undertaken pursuant to the
+
+Authorized Foreign Representatives’ court-appointed mandate are under applicable sanctions laws
+
+and regulations (i.e., under U.S. or U.K. law, where they apply to the Authorized Foreign
+
+Representatives’ mandate). On February 20, 2026, the Authorized Foreign Representatives
+
+submitted a license application to OFAC requesting the issuance of a license on an expedited basis
+
+to authorize U.S. persons acting at the direction or with the consent of the Authorized Foreign
+
+Representatives to engage in certain activities with respect to the Debtors that require licensure by
+
+OFAC. The Authorized Foreign Representatives remain in active contact with OFAC regarding
+
+this license application. Meanwhile, in response to urgent developments at the Allied Cigar
+
+Group—a group of operating companies engaged in the global distribution of premium cigar
+
+products in which one of the Debtors holds a majority investment—OFAC issued at the Authorized
+
+Foreign Representatives request a temporary license (License No. TCO-2026-1464321-2) on
+
+March 18, 2026, to facilitate certain activities necessary to stabilize operations.
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 7 of 30
+
+
+      12. Since their appointment, the Authorized Foreign Representatives have encountered
+
+active resistance from parties associated with Chen Zhi and the Prince Group who have taken steps
+
+to challenge the Authorized Foreign Representatives’ authority and interfere with their mandate in
+
+multiple jurisdictions. These actions include: the purported appointment of Cosimo Borrelli as
+
+director of 25 of the Debtors pursuant to a purported power of attorney from Chen Zhi dated
+
+December 29, 2025—eight days before Chen Zhi’s arrest; litigation threats from Boies Schiller
+
+Flexner LLP (“BSF”) expressly contemplating U.S. litigation against the Authorized Foreign
+
+Representatives’ exercise of their court-appointed authority; unsigned statements of affairs
+
+describing certain assets as “pledged for liabilities to shareholders”; and applications in the BVI
+
+Court seeking to discharge the BVI Orders. See Pretlove Declaration ¶¶ 54–59.
+
+      13. At present, the Authorized Foreign Representatives have limited visibility into the
+
+full scope of assets held by the Debtors. The Prince Group is alleged to have deliberately
+
+obfuscated its corporate structure, books, and records. The Authorized Foreign Representatives’
+
+present understanding of the Debtors’ assets is based principally on publicly available information,
+
+U.K. and Hong Kong land registry documents, the Debtors’ corporate registers, documents
+
+obtained from the Debtors’ former registered agent, and the Authorized Foreign Representatives’
+
+further preliminary investigation. Additional assets, entities, jurisdictions, and counterparties are
+
+expected to be identified as records are obtained and investigations progress. See Pretlove
+
+Declaration ¶ 47.
+
+        Relief Requested
+
+      14. By this Motion, and pursuant to sections 1519, 1521(a)(7) and 362 of the
+
+Bankruptcy Code, the Authorized Foreign Representatives request that this Court enter two orders:
+
+(i) a temporary restraining order, substantially in the form attached hereto as Exhibit B (the
+
+“Emergency Order”); and (ii) an order granting provisional relief, substantially in the form
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 8 of 30
+
+
+           attached hereto as Exhibit C (the “Provisional Relief Order,” and together with the Emergency
+
+    Order, the “Orders”).
+
+    15.                   The Emergency Order, which the Authorized Foreign Representatives respectfully
+
+       request be entered on an urgent ex parte basis, would temporarily enjoin and restrain—to the full
+
+extent of the automatic stay available under section 362 of the Bankruptcy Code—the
+
+                 commencement or continuation by all entities of any actions, proceedings or enforcement
+
+     processes with respect to the Debtors and their property within the territorial jurisdiction of the
+
+        United States, pending entry of the Provisional Relief Order. Further, the Emergency Order would
+
+        authorize the Authorized Foreign Representatives, pursuant to sections 1519(a)(3) and 1521(a)(4)
+
+               of the Bankruptcy Code and Bankruptcy Rule 2004, to issue subpoenas for the production of
+
+          documents and testimony to any persons or entities that the Authorized Foreign Representatives
+
+    reasonably determine may have information relevant to the Debtors, their affairs, or their assets.
+
+    16.                       The Provisional Relief Order, which the Authorized Foreign Representatives
+
+    respectfully request be entered after expedited notice and a hearing, would grant provisional relief
+
+         pending recognition of the BVI Proceedings as foreign main proceedings and the Court’s issuance
+
+    of a continued injunction related thereto. Specifically, the Provisional Relief Order would provide:
+
+        a. entrusting full and sole authority over the administration and realization of the
+        Debtors’ assets located in the United States to the Authorized Foreign
+        Representatives, pursuant to section 1519(a)(2) of the Bankruptcy Code;
+
+        b.               applying section 362 of the Bankruptcy Code with respect to the Debtors and the
+               property of the Debtors that is within the territorial jurisdiction of the United States,
+                          pursuant to sections 1519(a)(1) and 1521(a)(7) of the Bankruptcy Code. For the
+                            avoidance of doubt and without limiting the generality of the foregoing, the
+                 Provisional Relief Order shall impose a stay within the territorial jurisdiction of the
+            United States of:
+
+        i. the commencement or continuation—including the issuance or employment
+        of process—of any judicial, administrative, or any other action or
+        proceeding involving or against the Debtors or their assets or proceeds
+        thereof, or to recover a claim or enforce any judicial, quasi-judicial,
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 9 of 30
+
+
+                        regulatory, administrative, or other judgment, assessment, order, lien or
+                    arbitration award against the Debtors or their assets or proceeds thereof, or
+                    to exercise any control over the Debtors’ assets located in the United States
+                       except as authorized by the Authorized Foreign Representatives in writing;
+
+         ii.          the creation, perfection, seizure, attachment, enforcement, or execution of
+                    liens or judgments against the Debtors’ property in the United States, or the
+                          transfer, encumbrance, or disposal of or interference with the Debtors’
+                        assets in the United States without the express consent of the Authorized
+              Foreign Representatives;
+
+        iii.       any act to collect, assess, or recover a claim against any of the Debtors that
+              arose before the commencement of the Debtors’ Chapter 15 Cases;
+
+         iv.                the setoff of any debt owing to any the Debtors that arose before the
+              commencement of the Debtors’ Chapter 15 Cases against the Debtors;
+
+          v.         the transfer, encumbrance, relinquishment or disposal of any property of the
+                         Debtors to any entity (as that term is defined in section 101(15) of the
+              Bankruptcy Code) other than the Authorized Foreign Representatives; and
+
+         vi.         any act to transfer, dilute, encumber, or otherwise impair or interfere with
+              the Debtors’ direct or indirect equity interests in any subsidiary or affiliate,
+                      or to exercise or purport to exercise any governance rights with respect to
+                     any such subsidiary or affiliate, without the express written consent of the
+              Authorized Foreign Representatives.
+
+    c.              prohibiting any person or non-governmental entity (as that term is defined in
+                       section 101(15) of the Bankruptcy Code), other than the Authorized Foreign
+                    Representatives, from commencing or continuing any act or legal proceeding to
+        seize, attach, garnish, confiscate, or transfer title to any assets of the Debtors or any
+        of their subsidiaries and affiliates;
+
+d. authorizing the Authorized Foreign Representatives, pursuant to sections
+    1519(a)(3) and 1521(a)(4) of the Bankruptcy Code and Bankruptcy Rule 2004, to
+    issue subpoenas for the production of documents and testimony to any persons or
+    entities that the Authorized Foreign Representatives reasonably determine may
+    have information relevant to the Debtors, their affairs, or their assets;
+
+    e.          authorizing the Authorized Foreign Representatives to take possession and to seek
+                turnover of any and all documents, records, filings or other information, however
+        stored, that belongs to the Debtors and that is found within the territorial jurisdiction
+        of the United States;
+
+    f.        granting the Authorized Foreign Representatives the rights and protections to which
+             they are entitled under chapter 15 of the Bankruptcy Code, including the protections
+                    limiting the jurisdiction of United States courts over the Authorized Foreign
+        Representatives in accordance with section 1510 of the Bankruptcy Code;
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 10 of 30
+
+
+        g. notwithstanding any provision in the Bankruptcy Rules to the contrary, ruling that
+        (i) the Provisional Relief Order shall be effective immediately and enforceable
+        upon entry, and the 14-day stay of effectiveness of the Provisional Relief Order is
+        waived, (ii) the Authorized Foreign Representatives are not subject to any stay in
+        the implementation, enforcement, or realization of the relief granted in the
+        Provisional Relief Order, and (iii) the Authorized Foreign Representatives are
+        authorized and empowered, and may, in their discretion and without further delay,
+        take any action and perform any act necessary to implement and effectuate the
+        terms of the Provisional Relief Order; and
+
+        h. granting related relief.
+
+      17. For the avoidance of doubt, nothing in the Emergency Order or the Provisional
+
+Relief Order shall be construed to stay, enjoin, or otherwise limit (i) any action or proceeding by
+
+a governmental unit (as defined in section 101(27) of the Bankruptcy Code) to enforce its police
+
+or regulatory power, including the maintenance of the Debtors and other designated persons on
+
+the Specially Designated Nationals and Blocked Persons List (the “SDN List”), any administrative
+
+action by OFAC, and any other regulatory action by any agency of the United States government,
+
+(ii) the EDNY Forfeiture Action, or any action by the DOJ in connection therewith or related
+
+thereto, (iii) the criminal prosecution of Chen Zhi pursuant to the Indictment, or any related
+
+criminal investigation or proceeding with respect to Chen Zhi, the Prince Group, or affiliates of
+
+the Prince Group, or (iv) any other action or proceeding exempt from the automatic stay under
+
+section 362(b) of the Bankruptcy Code. The governmental unit exception set forth in section
+
+362(b)(4) of the Bankruptcy Code applies in full to the Orders.
+
+        Basis for Relief
+
+A. Courts Routinely Grant Provisional Relief Under Section 1519
+
+      18. On the Petition Date, the Authorized Foreign Representatives filed the Petitions
+
+seeking recognition of the BVI Proceedings as foreign main proceedings under sections 1517 and
+
+1520 of the Bankruptcy Code. Although a “petition for recognition of a foreign proceeding shall
+
+be decided upon at the earliest possible time,” 11 U.S.C. § 1517(c), there is necessarily a gap
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 11 of 30
+
+
+between the time the petition for recognition was filed and when the Court makes a decision on
+
+recognition. Accordingly, the Authorized Foreign Representatives seek emergency provisional
+
+relief under sections 105(a) and 1519 of the Bankruptcy Code.
+
+      19. The relief sought in this Motion is of a type frequently granted in Chapter 15 cases.
+
+Courts in this district and elsewhere routinely impose a provisional stay co-extensive with section
+
+362 of the Bankruptcy Code and order similar relief to maintain the status quo pending a decision
+
+on recognition. See, e.g., In re Iovate Health Scis. Int’l Inc., No. 25-11958 (MG), 2025 Bankr.
+
+LEXIS 2284 (Bankr. S.D.N.Y. Sep. 12, 2025) (granting interim relief in the form of a stay to
+
+preserve status quo pending ruling on recognition motion); In re Giftcraft Ltd., No. 25-11030
+
+(MG), 2025 Bankr. LEXIS 1350 (Bankr. S.D.N.Y. Jun. 4, 2025) (finding that traditional injunctive
+
+standards were met and granting provisional relief in the form of a stay); In re Andrade Gutierrez
+
+Engenharia S.A., 645 B.R. 175 (Bankr. S.D.N.Y. Nov. 3, 2022) (noting that provisional relief in
+
+the form of a stay was appropriate in the gap period between the chapter 15 filing and recognition
+
+hearing); In re Oi S.A., No. 16-11791 (SHL) (Bankr. S.D.N.Y. Jun. 22, 2016) (finding that
+
+provisional relief was necessary to protect the debtor’s US assets); see also In re Muscletech
+
+Research and Dev. Inc., No. 06-01147 (JMP) (Bankr. S.D.N.Y. Jan. 18, 2006) (entering an ex
+
+parte temporary restraining order enjoining the commencement or continuation of actions against
+
+foreign debtors and non-debtors pending a hearing to consider entry of a preliminary injunction).
+
+      20. Courts have also routinely authorized discovery on a provisional basis in aid of
+
+asset-identification and preservation efforts. See, e.g., In re Three Arrows Capital, Ltd., No. 22-
+
+10920 (MG) (Bankr. S.D.N.Y. Jul. 12, 2022) (authorizing issuance of subpoenas on founders and
+
+any other persons the joint provisional liquidators “reasonably determine during the course of their
+
+investigation may have information relevant to the Debtor, its affairs, or its assets”); In re Ascentra
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 12 of 30
+
+
+Holdings, Inc., No. 21-11854 (DSJ) [D.I. No. 17] (Bankr. S.D.N.Y. Nov. 2, 2021) (entrusting the
+
+administration of the debtor’s U.S. assets to the foreign representative and authorizing discovery
+
+on a provisional basis).
+
+      21. Likewise, courts have regularly authorized discovery on an emergency basis in ex
+
+parte proceedings. “Rule 2004 motions are generally granted ex parte, as was the case here,
+
+without the advance notice required to be given in a contested matter.” In re Symington, 209 B.R.
+
+678 (Bankr. D. Md. 1997). See also In re GHR Energy Corp., 35 B.R. 534 (Bankr. D. Mass. 1983)
+
+(“a Rule 2004 motion may be made ex parte and even orally” and “oftentimes when an application
+
+appears proper on its face, it will be allowed”); Matter of M4 Enters., Inc., 190 B.R. 471 (Bankr.
+
+N.D. Ga. 1995) (“Courts customarily dispose of Rule 2004 motions on an ex parte basis.”).
+
+B. Sections 1519 and 1521 of the Bankruptcy Code Authorize Broad Provisional Relief
+
+      22. Section 1519 of the Bankruptcy Code permits the Court, “from the time of filing a
+
+petition for recognition until [it] rules on the petition[,]” to grant provisional relief where such
+
+relief is “urgently needed to protect the assets of the debtor[s] or the interests of the creditors.” 11
+
+U.S.C. § 1519(a); see also Iovate, 2025 Bankr. LEXIS 2284, at *23-24 (“Section 1519 of the
+
+Bankruptcy Code permits the Court to grant certain forms of provisional relief ‘where relief is
+
+urgently needed to protect the assets of the debtor or the interests of the creditors.’”). The scope
+
+of available provisional relief includes:
+
+        a. staying execution against the debtor’s assets;
+
+        b. “entrusting the administration or realization of all or part of the debtor’s assets
+        located in the United States to the foreign representative . . . in order to protect
+        and preserve the value of assets that, by their nature or because of other
+        circumstances, are perishable, susceptible to devaluation or otherwise in
+        jeopardy,” 11 U.S.C. § 1519(a)(2); and
+
+        c. “any relief referred to in paragraph (3), (4), or (7) of section 1521(a),” 11 U.S.C.
+        1519(a)(3).
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 13 of 30
+
+
+      23. Section 1521(a), in turn, authorizes: (a) “suspending the right to transfer, encumber
+
+or otherwise dispose of any assets of the debtor,” 11 U.S.C. § 1521(a)(3); (b) “providing for the
+
+examination of witnesses, the taking of evidence or the delivery of information concerning the
+
+debtor’s assets, affairs, rights, obligations or liabilities,” 11 U.S.C. § 1521(a)(4); and (c) “granting
+
+any additional relief that may be available to a trustee,” 11 U.S.C. § 1521(a)(7). Application of
+
+the stay under section 362 has specifically been found to be among the types of relief available
+
+under section 1519. See In re Oak and Fort Corp., No. 1:25-bk-11282 (MG) [D.I. 21] (S.D.N.Y.
+
+June 23, 2025) (“The Foreign Representative has demonstrated that commencement or
+
+continuation of any action or proceeding in the United States against the Debtors should be
+
+enjoined pursuant to sections 105(a), 1519, 1521 and 1522 of the Bankruptcy Code, which
+
+protections, in each case, shall be coextensive with the provisions of section 362 of the Bankruptcy
+
+Code.”).
+
+      24. “The purpose of provisional relief under Section 1519 is to provide remedial relief
+
+to preserve the status quo in the gap period between the filing of the petition and the time the court
+
+rules upon the petition for recognition.” In re Worldwide Educ. Servs., Inc., 494 B.R. 494, 499
+
+(Bankr. C.D. Cal. 2013). The Orders are intended to serve that purpose by preventing acts
+
+inconsistent with the BVI Orders, protecting assets located within the territorial jurisdiction of the
+
+United States, and enabling the Authorized Foreign Representatives to identify and preserve estate
+
+property before it can be dissipated, concealed, or placed beyond the reach of the BVI and Chapter
+
+15 proceedings.
+
+C. The Standards for a Preliminary Injunction Are Satisfied
+
+      25. The relief available under section 1519 is available if “the standards, procedures,
+
+and limitations applicable to an injunction” are met. 11 U.S.C. § 1519(e). In the Second Circuit,
+
+a party seeking a preliminary injunction must establish: (1) a likelihood of success on the merits;
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 14 of 30
+
+
+(2) irreparable harm if provisional relief is not granted; (3) that the balance of the harms tips in the
+
+movant’s favor; and (4) that the public interest weighs in favor of an injunction. See Iovate, 2025
+
+Bankr. LEXIS 2284, at *24; Andrade Gutierrez, 645 B.R. at 180-81; Giftcraft, 2025 Bankr. LEXIS
+
+1350, at *17.
+
+      26. In evaluating these factors, courts take a “flexible approach and no one factor is
+
+determinative.” In re Calpine Corp., 365 B.R. 401, 409 (S.D.N.Y. 2007). “A showing of
+
+irreparable harm is ‘the single most important prerequisite for the issuance of a preliminary
+
+injunction.’” Iovate, 2025 Bankr. LEXIS 2284, at *25 (quoting Faiveley Transp. Malmo AB v.
+
+Wabtec Corp., 559 F.3d 110, 118 (2d Cir. 2009)). In cases seeking preservation of assets pending
+
+adjudication, courts apply this standard with particular emphasis on preventing assets from being
+
+dissipated, concealed, or placed beyond the Court’s reach. See In re Soundview Elite Ltd., 503
+
+B.R. 571, 588-90 (Bankr. S.D.N.Y. 2014).
+
+      27. “Only the first two factors”—a reasonable probability of eventual success in the
+
+litigation and irreparable injury absent the requested relief— “are necessary” to prove individually.
+
+“‘If these gateway factors are met, a court then considers the remaining two factors and determines
+
+in its sound discretion if all four factors, taken together, balance in favor of granting the requested
+
+preliminary relief.’” In re Team Sys. Int’l, LLC, No. 22-10066 (CTG), 2023 WL 1428572, at *10
+
+(quoting Reilly v. City of Harrisburg, 858 F.3d 173, 179 (3d Cir. 2017)); see also Winter v. Natural
+
+Res. Defense Council, 555 U.S. 7, 20 (2008). At this provisional stage, the Authorized Foreign
+
+Representatives are not required to prove their claims in full but must demonstrate a reasonable
+
+probability of success sufficient to justify preserving the status quo. See In re Three Arrows Cap.,
+
+Ltd., 2022 WL 17985951, at *7; In re BYJU’s Alpha, Inc., 2024 WL 1455586, at *5 (Bankr. D.
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 15 of 30
+
+
+Del. Apr. 3, 2024), aff’d, 2024 WL 3474561 (D. Del. July 18, 2024). As set forth below, all four
+
+factors are satisfied.
+
+    1. The Authorized Foreign Representatives Are Likely to Succeed on the Merits
+
+      28. In a request for provisional relief under Chapter 15, the “likelihood of success on
+
+the merits” refers to the likelihood that the bankruptcy court will recognize the foreign proceeding.
+
+Iovate, 2025 Bankr. LEXIS 2284, at *24 (citing Andrade Gutierrez, 645 B.R. at 181). The
+
+Authorized Foreign Representatives are likely to prevail in their petition for recognition of the BVI
+
+Proceedings as foreign main proceedings under section 1517(b)(1) of the Bankruptcy Code, and
+
+to obtain the relief sought upon recognition.
+
+      29. Recognition as a Foreign Main Proceeding. The BVI Proceedings satisfy each
+
+of the requirements for recognition under section 1517 of the Bankruptcy Code. First, the BVI
+
+Proceedings are collective judicial proceedings conducted under the supervision of the BVI Court
+
+pursuant to the BVI Insolvency Act—a law relating to insolvency—and therefore constitute
+
+“foreign proceedings” within the meaning of section 101(23) of the Bankruptcy Code. See
+
+Chissick Declaration ¶¶ 55–57. Second, section 1516(c) of the Bankruptcy Code establishes a
+
+presumption that the debtor’s registered office is the debtor’s center of main interests (“COMI”).
+
+Each of the Debtors was incorporated in the BVI, has continuously maintained its registered office
+
+in the BVI, and is being administered under BVI Court supervision. Accordingly, the BVI
+
+qualifies as the COMI for each Debtor, and the BVI Proceedings qualify as “foreign main
+
+proceedings” within the meaning of section 1502(4). Third, the Authorized Foreign
+
+Representatives have been appointed by the BVI Court and are duly authorized under BVI law to
+
+administer the Debtors’ affairs, and therefore qualify as “foreign representatives” within the
+
+meaning of section 101(24). See Chissick Declaration ¶¶ 62–64. Fourth, these Chapter 15 Cases
+
+were properly commenced by filing the Petitions in accordance with section 1515 of the
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 16 of 30
+
+
+Bankruptcy Code. Moreover, courts in this District routinely recognize insolvency proceedings in
+
+the BVI as foreign main proceedings under Chapter 15. See, e.g., In re Olinda Star Ltd., No. 20-
+
+10712 (MG) [D.I. 23] (Bankr. S.D.N.Y. Apr. 3, 2020); In re Kingate Global Fund, Ltd., No. 19-
+
+12853 (SMB) [D.I. 28] (Bankr. S.D.N.Y. Oct. 17, 2019); In re Fairfield Sentry Limited, No. 10-
+
+13164 (BRL) [D.I. 47] (Bankr. S.D.N.Y. Jul. 22, 2010).
+
+      30. Relief Upon Recognition. Upon recognition as a foreign main proceeding, section
+
+1520(a)(1) of the Bankruptcy Code automatically applies the stay of section 362 to the Debtors
+
+and their property within the territorial jurisdiction of the United States—the same relief sought
+
+provisionally here. The Court may also order additional protective relief under section 1521(a),
+
+including authorizing the Authorized Foreign Representatives to serve discovery concerning “the
+
+debtor’s assets, affairs, rights, obligations or liabilities” as “necessary to effectuate the purposes of
+
+[Chapter 15] and to protect the assets of the debtor or the interests of the creditors.” 11 U.S.C. §
+
+1521(a). Under BVI law, the Authorized Foreign Representatives have exclusive authority to
+
+manage and administer the Debtors’ assets, and the discovery sought herein falls squarely within
+
+the Authorized Foreign Representatives’ investigative powers under the BVI Orders. See Chissick
+
+Declaration ¶¶ 50–53. The BVI Orders are enforceable as a matter of contempt and coercive
+
+process only within the jurisdiction of the BVI. See Chissick Declaration ¶ 23.
+
+      31. Without recognition in the United States, persons purporting to act on behalf of the
+
+Debtors—including those claiming authority under purported director appointment—may take
+
+action with respect to the Debtors’ U.S. assets inconsistent with the BVI Orders. The principles
+
+of comity therefore support granting provisional relief to extend the protections of the BVI Orders
+
+to this jurisdiction, and will support the continuation of such relief on a final basis upon
+
+recognition. See In re Bear Stearns High-Grade Structured Credit, 389 B.R. 325, 333 (S.D.N.Y.
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 17 of 30
+
+
+2008) (relief under section 1521 is “discretionary and turns on subjective factors that embody
+
+principles of comity”); In re BOS Solutions Ltd., Case No. 20-32465, [Dkt. No. 17] (Bankr. S.D.
+
+Tex. May 5, 2020) (granting provisional relief “supported by notions of comity [that] will allow
+
+the Receiver to craft a productive solution for the Debtors and their estates”).
+
+      32. Accordingly, there is a substantial likelihood that this Court will recognize the BVI
+
+Proceedings as foreign main proceedings and that the Authorized Foreign Representatives will be
+
+accorded the relief sought herein.
+
+    2. The Authorized Foreign Representatives, the Debtors and the Debtors’ Stakeholders
+        Will Suffer Irreparable Harm If the Provisional Relief Is Not Granted
+
+      33. The Orders are needed to avoid irreparable harm and enable the Authorized Foreign
+
+Representatives to protect the Debtors’ assets. In asset-preservation cases, irreparable harm is
+
+established where there is a meaningful risk that assets will be dissipated or placed beyond the
+
+reach of the Court, such that any relief later awarded would be ineffective. In re Soundview Elite
+
+Ltd., 503 B.R. at 589 (“The irreparable harm here is the risk that the estate’s assets will be
+
+dissipated or otherwise placed beyond the reach of this Court, such that any relief awarded at a
+
+later time would be meaningless.”); In re BYJU’s Alpha, Inc., 2024 WL 1455586, at 6-7 (Bankr.
+
+D. Del. Apr. 3, 2024), aff’d, 2024 WL 3474561 (D. Del. July 18, 2024) (finding irreparable harm
+
+where debtor had been “stonewalled when trying to locate” missing funds and counterparties
+
+“repeatedly demonstrated willful disregard for the Debtor’s attempts to locate these missing
+
+funds”).
+
+      34. Courts have further made clear that irreparable harm exists not only where
+
+imminent transfers are shown, but also where the debtor’s asset universe cannot be identified or
+
+traced due to opacity and obfuscation. See In re Three Arrows Cap., Ltd., 2022 WL 17985951, at
+
+10-11 (“Where the foreign representatives lack information regarding the debtor’s assets and their
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 18 of 30
+
+
+location, provisional relief is appropriate to ensure that estate property can be identified and
+
+preserved.”); In re Team Sys. Int’l, LLC, 2023 WL 1428572, at *8 (injunction warranted where
+
+defendants’ conduct “obscured the disposition of estate assets and frustrated the trustee’s ability
+
+to determine their location”).
+
+      35. The Prince Group’s opaque corporate structure and historical concealment of asset
+
+flows materially impede asset tracing efforts and create a substantial risk that assets will be further
+
+concealed or dissipated absent immediate judicial intervention. The Authorized Foreign
+
+Representatives continue to have limited visibility into the full scope of the Debtors’ assets due to
+
+the Prince Group’s deliberate obfuscation of its corporate structure, books, and records. See
+
+Pretlove Declaration ¶ 47. Any sanctions, criminal, or forfeiture actions elsewhere do not
+
+substitute for relief from this Court where the Authorized Foreign Representatives still lack a
+
+reliable picture of the Debtors’ asset universe due to the Prince Group’s own conduct. See In re
+
+BYJU’s Alpha, Inc., 2024 WL 1455586, at 6-7 (granting injunctive relief notwithstanding parallel
+
+proceedings because counterparties’ refusal to cooperate with efforts to ascertain the location of
+
+assets itself warranted judicial intervention; “refusing to identify the location of the funds does
+
+nothing to . . . demonstrate that [the party] does not retain control over” them).
+
+      36. Without provisional relief from this Court, there is no corresponding restriction
+
+preventing persons purporting to act on behalf of the Debtors from commencing adverse
+
+proceedings in U.S. courts, disposing of the Debtors’ unblocked U.S. assets, or taking other actions
+
+inconsistent with the BVI Orders. The risk is compounded because persons acting at Chen Zhi’s
+
+direction are likely to have detailed knowledge of the Debtors’ asset holdings, corporate structures,
+
+bank accounts, and counterparty relationships, enabling them to act quickly and with precision
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 19 of 30
+
+
+against assets the Authorized Foreign Representatives have not yet identified. See Pretlove
+
+Declaration ¶¶ 72–75.
+
+      37. As discussed above and further in the Pretlove Declaration, Campbells Legal (BVI)
+
+Limited (“Campbells”), a law firm purporting to represent 25 of the Debtors, has asserted that
+
+Cosimo Borrelli, a Hong Kong-based restructuring professional, purportedly has been appointed
+
+as director of 25 of the Debtors, and that this appointment was made by unspecified individuals
+
+acting pursuant to a purported power of attorney from Chen Zhi dated December 29, 2025—eight
+
+days before Chen Zhi’s arrest. Despite repeated requests, Campbells has not produced the
+
+purported powers of attorney or identified the individuals purportedly authorized to act thereunder.
+
+Pretlove Declaration ¶ 56. Campbells has asserted that it takes instructions from the Companies
+
+acting through Mr. Borrelli in his purported capacity as director. However, Campbells has refused
+
+to identify to the Authorized Foreign Representatives the individuals acting under the purported
+
+power of attorney from Chen Zhi who are said to have appointed Mr. Borrelli, and therefore the
+
+ultimate source of that authority. See Pretlove Declaration ¶ 74. The identity of those individuals
+
+remains undisclosed. In addition, Mr. Borrelli has stated in a sworn filing that he is receiving and
+
+relying on information from a U.S. law firm, Boies Schiller Flexner LLP (“BSF”). Pretlove
+
+Declaration ¶ 55. Campbells previously stated that neither it nor Mr. Borrelli had been paid as of
+
+March 10, 2026 and that any payment would not be made from the Debtors’ assets without the
+
+consent of the Joint Provisional Liquidators, but has failed to provide any clear explanation as to
+
+how its fees or Mr. Borrelli’s fees are being, or will be, funded. Indeed, the refusal by Campbells
+
+to produce the purported powers of attorney, identify the individuals authorized to act thereunder,
+
+or disclose the source of funding for its activities is itself indicative of the very interference risks
+
+the Orders are designed to address. See In re BYJU’s Alpha, Inc., 2024 WL 1455586, at 7 (finding
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 20 of 30
+
+
+that counterparties’ “brazen insistence on concealing the location and control” of assets “strongly
+
+indicates” continued ownership and control, warranting injunctive relief). There is “little dispute
+
+regarding the notion that the premature piecing out of property involved in a foreign liquidation
+
+proceeding constitutes irreparable injury.” In re Rubin, 160 B.R. 269, 283 (Bankr. S.D.N.Y.
+
+1993); see also In re Lines, 81 B.R. 267, 270 (Bankr. S.D.N.Y. 1988) (same).
+
+      38. The irreparable harm extends beyond asset dissipation. BSF has sent a litigation
+
+hold notice to the Authorized Foreign Representatives expressly contemplating U.S. litigation “in
+
+the event of an unlawful and potentially below-market sale of certain assets or interests of Mr.
+
+Chen.” See Pretlove Declaration ¶ 59. Absent an automatic stay, actions challenging the
+
+Authorized Foreign Representatives’ authority or seeking to restrain their exercise of their court-
+
+appointed mandate may be filed in any U.S. court, fragmenting these proceedings and diverting
+
+resources from the Authorized Foreign Representatives’ investigative and asset-preservation
+
+efforts at a critical stage of the BVI Proceedings. “In the cross-border insolvency context, courts
+
+have recognized that irreparable harm exists where local actions could hinder the orderly process
+
+of a foreign proceeding and the goal of the fair distribution of assets.” In re Iovate Health Scis.
+
+Int’l Inc., 2025 Bankr. LEXIS 2284, at *33; see also In re Giftcraft Ltd., 2025 Bankr. LEXIS 1350,
+
+at *32-33 (actions against the debtors’ assets would “diminish the value of the [moving debtors’]
+
+assets to the detriment of all stakeholders,” constituting irreparable harm).
+
+      39. Even in the absence of a specific finding of irreparable harm, courts in this circuit
+
+have recognized that injunctive relief may issue in the bankruptcy context where the action to be
+
+enjoined threatens the orderly administration of the estate or would impair the court’s jurisdiction
+
+with respect to the case before it. See In re Soundview Elite Ltd., 543 B.R. 78, 120 (Bankr.
+
+S.D.N.Y. 2016) (“[C]ourts in the Second Circuit have determined that irreparable harm need not
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 21 of 30
+
+
+be shown as a requirement for issuance of a preliminary injunction in the bankruptcy context where
+
+the action to be enjoined is one that threatens the reorganization process or which would impair
+
+the court’s jurisdiction with respect to the case before it.”); In re Calpine Corp., 365 B.R. 401, 409
+
+(S.D.N.Y. 2007).
+
+    3. The Balance of Harms Weighs Strongly in Favor of the Authorized Foreign
+        Representatives
+
+      40. The balance of harms weighs in favor of granting the Orders. The Orders are
+
+preservative, not adjudicative. It maintains the status quo, protects estate property, and ensures
+
+that assets are administered in a single court-supervised process rather than dissipated through
+
+piecemeal action. See In re Innua Canada Ltd., No. 09-16362, 2009 WL 1025088, at *4 (Bankr.
+
+D.N.J. Mar. 25, 2009) (maintaining the status quo pending recognition served to benefit creditors
+
+“by allowing for an orderly administration of the foreign debtors’ financial affairs under the foreign
+
+proceeding”); see also Cunard S.S. Co. Ltd. v. Salen Reefer Svcs. A.B., 773 F.2d 452, 458 (2d Cir.
+
+1985) (“The granting of comity to a foreign bankruptcy proceeding enables the assets of a debtor
+
+to be dispersed in an equitable, orderly, and systematic manner, rather than in a haphazard, erratic
+
+or piecemeal fashion.”).
+
+      41. By contrast, denial of the requested relief would expose the Debtors to precisely
+
+the harms described above: interference with the Authorized Foreign Representatives’ authority,
+
+conflicting instructions to counterparties, and diminution of recoveries for a creditor body expected
+
+to consist largely of victims. See Pretlove Declaration ¶¶ 54–59, 61. That certain parties “may be
+
+denied an advantage over” others “is not a valid reason to deny relief to the foreign representative.”
+
+In re Atlas Shipping A/S, 404 B.R. 726, 742 (Bankr. S.D.N.Y. 2009).
+
+      42. The proposed discovery recipients will not be significantly harmed by the discovery
+
+requests. The “relevant inquiry is whether the discovery sought . . . is (i) necessary in the interests
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 22 of 30
+
+
+of justice; and (ii) not possible to obtain . . . in another manner.” In re Three Arrows Cap. Ltd.,
+
+647 B.R. 440, 451 (Bankr. S.D.N.Y. 2022). The discovery sought here targets the Debtors’ assets
+
+and falls squarely within the scope of section 1521(a)(4) and Bankruptcy Rule 2004. Any
+
+inconvenience to the discovery recipients is significantly outweighed by the Authorized Foreign
+
+Representatives’ well-grounded need to preserve and protect the Debtors’ assets during the interim
+
+period.
+
+      43. The Orders will not bar any parties from participating in the BVI Proceedings or
+
+these Chapter 15 Cases, and any party that believes it has been harmed by the provisional relief
+
+may seek relief from the stay from this Court for cause. See In re Giftcraft Ltd., 2025 WL 1583480,
+
+at *11.
+
+    4. The Public Interest Favors Granting the Orders
+
+      44. The Orders will advance the public interest by facilitating a cross-border insolvency
+
+proceeding that will benefit the estate and, ultimately, the victims of the Prince Group’s expansive
+
+criminal activity. See In re Picard, 917 F.3d 85, 103 (2d Cir. 2019) (“Comity in bankruptcy
+
+proceedings is ‘especially important’ for two reasons. ‘First, deference to foreign insolvency
+
+proceedings will, in many cases, facilitate equitable, orderly, and systematic distribution of the
+
+debtor’s assets. . . . Second, Congress explicitly recognized the importance of the principles of
+
+international comity in transnational insolvency situations when it revised the bankruptcy laws.’”)
+
+(citations omitted). These goals are consistent with the express objectives of Chapter 15, which
+
+include “fair and efficient administration of cross-border insolvencies” and “protection and
+
+maximization of the value of the debtor’s assets.” 11 U.S.C. § 1501(a).
+
+      45. The Orders will also make the preservation of assets and eventual reparation to
+
+victims more likely by confirming the Authorized Foreign Representatives as the sole parties
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 23 of 30
+
+
+authorized to administer the Debtors’ estates in the United States—providing certainty to the
+
+Debtors’ creditors, potential claimants, and victims that the Debtors’ assets will be preserved for
+
+orderly distribution under court supervision.
+
+      46. Finally, the Orders complement, rather than conflict with, U.S. sanctions and law-
+
+enforcement objectives. It preserves the role of OFAC, DOJ, and other U.S. government agencies,
+
+while confirming that the Authorized Foreign Representatives are the only parties authorized to
+
+act for the Debtors in the United States. See Pretlove Declaration ¶¶ 66, 68. Granting provisional
+
+relief will also support the broader law enforcement objectives of the United States by ensuring
+
+that assets alleged to represent proceeds of a transnational criminal enterprise are identified and
+
+preserved under court supervision rather than dissipated by the same actors alleged to have
+
+participated in the underlying criminal conduct.
+
+    5. All Parties Are Sufficiently Protected Under Section 1522(a)
+
+      47. Section 1522(a) of the Bankruptcy Code provides that the Court may grant relief
+
+under section 1519 “only if the interests of the creditors and other interested entities, including the
+
+debtor, are sufficiently protected.” 11 U.S.C. § 1522(a). That requirement is met here. Relief
+
+under section 1519 should be denied for a lack of sufficient protection only “if it is shown that the
+
+foreign proceeding is seriously and unjustifiably injuring United States creditors.” In re Andrade
+
+Gutierrez Engenharia S.A., 645 B.R. at 184 (quoting H.R. Rep. No. 109-31, pt. 1, at 116 (2005)).
+
+A determination of “sufficient protection” under section 1522 “requires a balancing of the
+
+respective parties’ interests.” In re ENNIA Caribe Holding N.V., 596 B.R. 316, 322 (Bankr.
+
+S.D.N.Y. 2019).
+
+      48. The BVI Proceedings arise from applications by the BVI Attorney General to place
+
+the Debtors into liquidation on public-interest grounds, with the intention of protecting victims
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 24 of 30
+
+
+and creditors—not to prejudice them. The Orders preserve the Debtors’ assets pending recognition
+
+and remains subject to the continuing jurisdiction of this Court. The Provisional Relief Order
+
+specifically provides that any party that believes it has been harmed by the provisional relief
+
+granted therein may file a motion with the Court seeking relief from such order. The status quo
+
+relief requested will not impose any hardship on any party that is not outweighed by the benefits
+
+to the Debtors’ estates and all parties in interest. See In re Iovate Health Scis. Int’l Inc., 2025
+
+Bankr. LEXIS 2284, at *34 (“As required under section 1522(a) of the Bankruptcy Code, all parties
+
+are ‘sufficiently protected’ such that this Court may grant the Provisional Relief.”).
+
+D. The Orders Are Consistent with, and Complementary to, the OFAC Sanctions
+       Regime
+
+      49. The Authorized Foreign Representatives acknowledge that the OFAC sanctions
+
+constitute a valid exercise of the United States government’s regulatory and police power, and
+
+nothing in the Orders are intended to limit, modify, or otherwise interfere with OFAC’s authority
+
+or the enforcement of existing sanctions designations. Section 362(b)(4) of the Bankruptcy Code
+
+exempts from the stay “the commencement or continuation of an action or proceeding by a
+
+governmental unit . . . to enforce such governmental unit’s . . . police and regulatory power.” 11
+
+U.S.C. § 362(b)(4). The Authorized Foreign Representatives do not seek to stay any regulatory or
+
+enforcement action by OFAC, the Department of the Treasury, the DOJ, or any other governmental
+
+unit.
+
+      50. Rather, the Orders are designed to complement the sanctions regime by preventing
+
+private parties—including, most critically, associates and agents of Chen Zhi—from taking
+
+unauthorized actions with respect to the Debtors’ assets within the territorial jurisdiction of the
+
+United States. While the sanctions regime blocks property of the designated Debtors and prohibits
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 25 of 30
+
+
+U.S. persons from engaging in unauthorized transactions involving such property, the provisional
+
+relief addresses a distinct and complementary set of risks that sanctions alone do not fully mitigate.
+
+      51. First, two of the Debtors, Amber Hill and Lateral Bridge, have not been subjected
+
+to OFAC sanctions designations. Although the Forfeiture Complaint identifies these entities
+
+within the Prince Group’s corporate structure, their property is not currently blocked under
+
+OFAC’s sanctions. Accordingly, the sanctions regime does not currently protect the assets of
+
+Amber Hill and Lateral Bridge from dissipation by private parties, and the provisional relief would
+
+fill that gap.
+
+      52. Second, OFAC’s blocking mandate freezes property and prohibits transfers or
+
+dealings, but it does not resolve interference by competing actors with the Authorized Foreign
+
+Representatives’ authority and efforts—a distinct and pressing risk in this case. Blocking prohibits
+
+unauthorized transactions involving designated property, but it does not prevent persons from
+
+purporting to exercise governance authority over the Debtors’ affairs.² Indeed, in this case, persons
+
+associated with Chen Zhi have taken affirmative steps to assert precisely such competing control
+
+through purported director appointments, retention of counsel, and issuance of litigation threats.
+
+See Pretlove Declaration ¶¶ 54–59. The entrustment of sole authority over the Debtors’ U.S. assets
+
+to the Authorized Foreign Representatives would resolve this ambiguity by confirming, as a matter
+
+of U.S. law, that the Authorized Foreign Representatives are the only parties authorized to act with
+
+respect to the Debtors’ assets in the United States.
+
+
+
+
+2 See Off. of Foreign Assets Control, Frequently Asked Question No. 9 (explaining that blocked property is
+    “frozen”—not seized—and that title remains with the blocked person); Calderon-Cardona v. Bank of N.Y.
+    Mellon, 821 F.3d 161, 169 (2d Cir. 2016) (explaining that blocking rules “prohibit transfers” but do not determine
+    “whether a judgment creditor may obtain those funds through judicial process”); Hausler v. JPMorgan Chase
+    Bank, N.A., 770 F.3d 207, 212 (2d Cir. 2014) (blocked assets are not “immunize[d] … from execution”) .
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 26 of 30
+
+
+      53. Third, provisional relief will provide critical clarity to U.S. financial institutions
+
+and other regulated counterparties that currently hold or interact with the Debtors’ assets. In the
+
+current environment, these institutions face the risk of receiving conflicting instructions—from the
+
+Authorized Foreign Representatives on the one hand and from persons purporting to act on behalf
+
+of the Debtors without authorization on the other. Provisional relief would eliminate that
+
+uncertainty by confirming, as a matter of U.S. law, that the Authorized Foreign Representatives
+
+are the sole parties authorized to engage with U.S. financial institutions and other counterparties
+
+with respect to the Debtors’ assets.
+
+      54. For the avoidance of doubt, the Orders expressly provide that all relief granted
+
+pursuant to the Emergency Order and the Provisional Relief Order is subject to compliance in all
+
+respects with existing and future OFAC sanctions, licenses, and regulations, and that nothing in
+
+the Emergency Order or the Provisional Relief Order shall be construed to authorize any
+
+transaction or activity that would otherwise be prohibited by OFAC’s regulations absent OFAC
+
+authorization.
+
+        Discovery Authorization
+
+      55. The Orders include authorization for the Authorized Foreign Representatives to
+
+issue subpoenas and conduct discovery pursuant to section 1521(a)(4) of the Bankruptcy Code and
+
+Bankruptcy Rule 2004. As set forth above, section 1519(a)(3) expressly incorporates section
+
+1521(a)(4), which “enables a Foreign Representative to take broad discovery concerning the
+
+property and affairs of a debtor.” In re Millennium Glob. Emerging Credit Master Fund Ltd., 471
+
+B.R. 342, 346 (Bankr. S.D.N.Y. 2012). Courts routinely authorize such discovery where it is
+
+necessary to identify, trace, and preserve assets whose location or control has been obscured. See
+
+In re Three Arrows Capital, Ltd., 2022 WL 17985951, at *9-11 (granting discovery where
+
+founders were likely the only parties with necessary information about the debtor’s assets); In re
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 27 of 30
+
+
+BYJU’s Alpha, Inc., 2024 WL 1455586, at *6-7 (equitable relief appropriate where debtor could
+
+not obtain meaningful information about the whereabouts of missing funds).
+
+      56. The Authorized Foreign Representatives seek authority to serve documentary and
+
+testimonial discovery on persons and entities in the United States that the Authorized Foreign
+
+Representatives reasonably determine may have information relevant to the Debtors, their affairs,
+
+or their assets. The Authorized Foreign Representatives’ immediate discovery efforts, directed
+
+toward asset identification and preservation, are expected to target three principal categories of
+
+persons and entities: (a) persons and entities who are or were associated with Chen Zhi, the Prince
+
+Group, or the alleged criminal enterprise, including former officers, directors, agents, attorneys-
+
+in-fact, and their affiliates; (b) business partners, counterparties, and co-venturers of such persons
+
+and entities; and (c) financial institutions, banks, broker-dealers, custodians, and their
+
+intermediaries that held or processed accounts, funds, or assets on behalf of the Debtors or entities
+
+within the Prince Group's corporate structure. The foregoing categories are illustrative and are not
+
+intended to limit the scope of the discovery authorization sought herein. The Authorized Foreign
+
+Representatives expect and reserve the right to seek discovery from additional persons and entities
+
+as their investigation progresses and additional information becomes available.
+
+      57. The need for provisional discovery authority is particularly acute here. It is alleged
+
+that the Prince Group deliberately obfuscated its corporate structure, using BVI companies to
+
+maintain accounts at U.S. financial institutions opened on fraudulent pretenses and with materially
+
+understated transaction volumes. See Pretlove Declaration ¶¶ 16, 26, 47. Without authority to
+
+compel the production of records from U.S. financial institutions and other parties, the Authorized
+
+Foreign Representatives cannot discharge their court-appointed mandate to identify, secure, and
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 28 of 30
+
+
+preserve the Debtors’ assets—and the assets that remain unidentified are the most vulnerable to
+
+dissipation or diversion.
+
+        An Emergency Hearing Is Warranted
+
+      58. As set forth above, the Authorized Foreign Representatives have satisfied the
+
+standard for injunctive relief under sections 105(a) and 1519(a) of the Bankruptcy Code.
+
+Meaningful relief can only be provided to the Debtors if the Motion is heard on an emergency
+
+basis at the Court’s earliest convenience. Consequently, the Authorized Foreign Representatives
+
+request that the Court enter an order setting the Motion for hearing no later than April 14, 2026,
+
+with objections to the Motion being permitted any time before or during the hearing.
+
+        No Notice Is Required in Respect of the Emergency Relief Requested Herein
+
+      59. This Motion seeks, in part, emergency ex parte relief. As expressly contemplated
+
+by section 1519(b) of the Bankruptcy Code, which permits the Court to grant relief “on an ex parte
+
+basis,” the urgent need to obtain the Emergency Order without prior notice is warranted because
+
+persons associated with Chen Zhi have already demonstrated a pattern of taking preemptive action
+
+to undermine the Authorized Foreign Representatives’ authority, including through the purported
+
+appointment of competing directors, litigation threats expressly contemplating U.S. proceedings,
+
+and engagement with counterparties without the Authorized Foreign Representatives’
+
+authorization. See Pretlove Declaration ¶¶ 54–59. The Authorized Foreign Representatives
+
+further request that the Court schedule a prompt hearing on their request for the Provisional Relief
+
+Order. The Authorized Foreign Representatives propose serving the Motion and the notice of the
+
+hearing in respect of their request for the Provisional Relief Order in accordance with the terms
+
+set forth by the Court in the Emergency Order.
+
+        No Security Required
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 29 of 30
+
+
+      60. No security is required for the Orders. Under the Bankruptcy Rules, security is not
+
+a prerequisite for the Debtors to obtain injunctive relief. Fed. R. Bankr. P. 7065; see also In re
+
+Iovate Health Scis. Int’l Inc., 2025 Bankr. LEXIS 2284, at *34-35 (exercising discretion not to
+
+require a bond). In any event, security would be unwarranted under the circumstances, where the
+
+substantial majority of the Debtors’ assets are already blocked pursuant to OFAC sanctions and
+
+therefore unavailable for any transaction absent OFAC authorization, the Debtors’ affairs are under
+
+the supervision of the BVI Court, and the provisional relief would last only until the Court rules
+
+on the Petitions.
+
+
+
+
+
+    No Prior Request
+
+    61. No prior request for the relief sought in this Motion has been made to this or any
+    other court.
+
+26-10769-mg Doc 9 Filed 04/09/26 Entered 04/09/26 12:35:05 Main Document
+        Pg 30 of 30
+
+
+       WHEREFORE, the Authorized Foreign Representatives respectfully request that the Court
+
+enter the Emergency Order and the Provisional Relief Order, substantially in the forms attached
+
+hereto, granting the relief requested herein and such other and further relief as may be just and
+
+proper.
+
+
+
+
+    Dated: April 9, 2026     Respectfully submitted,
+    New York, New York
+
+                             /s/ Andrew G. Dietderich
+                             Andrew G. Dietderich
+                             Sharon Cohen Levin
+                             Christopher J. Dunne
+                             Jacob M. Croke
+                             Alexa J. Kranzley
+                             SULLIVAN & CROMWELL LLP
+                             125 Broad Street
+                             New York, NY 10004
+                             Telephone: (212) 558-4000
+                             Facsimile: (212) 558-3588
+                             Email:   dietdericha@sullcrom.com
+                                      levinsc@sullcrom.com
+                                      dunnec@sullcrom.com
+                                      crokej@sullcrom.com
+                                      kranzleya@sullcrom.com
+
+                             Counsel to the Authorized Foreign
+                             Representatives
